@@ -275,6 +275,7 @@ td {
     box-shadow: 0 0 60px rgba(0,0,0,0.9);
     transform: perspective(1000px) rotateX(10deg);
     margin-top: -300px;
+        
 }
 
 .kiosk-interface h2 {
